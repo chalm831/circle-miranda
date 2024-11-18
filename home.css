@@ -1,0 +1,48 @@
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: rgb(110, 110, 240);
+    color:  brown;
+}
+
+a {
+    color: red;
+    display: block;
+    font-size: 30px;
+    line-height: 40px;
+    margin-top: 50px;
+}
+
+h1{
+    font-size: 55px;
+}
+
+.sanch{
+    position: relative;
+    left:300px; margin-top: 10px; 
+    max-width: 400px; 
+    max-height: 400px; 
+}
+
+.warning{
+    left: 40px; 
+}
+
+.cloud{
+    color:blueviolet;
+}
+
+.button-active {
+    background-color: aqua;
+}
+
+#button {
+    background-color: rgb(255, 105, 177);
+    margin-top: 50px;
+    border-radius: 10%;
+}
