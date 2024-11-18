@@ -1,0 +1,162 @@
+html {
+    box-sizing: border-box;
+}
+
+p {
+color: rgb(255, 0, 0);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+ 
+}
+
+.p1 {
+    color: rgb(148, 225, 255);
+    font-family:'Lucia Handwriting', cursive, monospace;
+    font-size: 46px;
+    position: relative;
+     left:160px; margin-top: -30px; 
+    }
+
+.p2 {
+    color: rgb(222, 15, 177);
+    font-family:'Brush Script MT', cursive;
+    font-size: 50px;
+    position: relative;
+    left:1000px; margin-top: -80px; 
+    } 
+
+h1 {
+    color: rgb(151, 11, 11);
+    font-family:'Monoto', Courier, monospace;
+    font-size: 80px;
+    text-align: center; margin-top: -80px;
+    text-decoration: red wavy underline;
+    } 
+
+
+
+.p3 {
+    color: rgb(255, 166, 230);
+    font-family:'Copperplate', fantasy, monospace;
+    font-size: 65px; 
+    position: relative;
+    left: 750px; margin-top: -45px;
+    } 
+
+.p4 {
+    color: rgb(194, 0, 110);
+    font-family:'Franklin', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, monospace;
+    font-size: 50px;
+    } 
+
+.p5 {
+    color: rgb(125, 218, 255);
+    font-family:'Monoto', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, monospace;
+    font-size: 50px;
+    position: relative;
+    left: 700px; margin-top: -45px;
+    } 
+
+p:hover {
+    color: white;
+    font-style: bold;
+}
+
+.cheetah {
+    position: relative;
+    left:1500px; margin-top: -400px; 
+    max-width: 400px; 
+    max-height: 400px; 
+}
+
+.imgpine {
+    position: fixed;
+    right: 900px;
+    max-width: 300px; 
+    max-height: 300px;
+}
+
+a h2 {
+    color: aliceblue;
+    font-size: 80px;
+    
+}
+
+a:hover h2  {
+    text-decoration: red wavy underline;
+}
+
+body{
+    background-color:rgb(0, 25, 249);
+
+}
+
+
+.back {
+    color: aliceblue;
+    font-size: 50px;
+    position: relative;
+    left: 700px; margin-top: 5px;
+}
+
+a:hover .back  {
+    text-decoration: red wavy underline;
+}
+
+/* .space{
+    color: aliceblue;
+    font-size: 50px;
+    position: relative;
+    left: 500px; margin-top: 80px;  
+}
+
+a:hover .space  {
+    text-decoration: red wavy underline;
+} */
+
+.img1 {
+    position: absolute;
+    z-index: 3;
+    left: 400px;
+    margin-top: 90px;
+}
+
+.img2 {
+    position: absolute;
+    z-index: 1;
+}
+
+.img3 {
+    position: relative;
+    z-index: 4;
+    margin-top: 120px;
+    margin-left: 45px;
+}
+
+.space{
+    color: aliceblue;
+    font-size: 30px;
+    position: relative;
+    left: 500px; margin-top: 80px;  
+}
+
+a:hover .space  {
+    text-decoration: red wavy underline;
+}
+
+.simonyi {
+    color: rgb(125, 218, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 65px; 
+    position: relative;
+    left: 750px; margin-top: -45px; 
+}
+
+.hachamovitch {
+    color: rgb(125, 218, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 65px; 
+    position: relative;
+    left: 750px; margin-top: -45px; 
+}
+
