@@ -1,0 +1,47 @@
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+
+}
+
+.atardecer {
+ margin-top: -10px;
+ width: 100vw;
+height: 100vh;
+}
+
+/* .sloth {
+ margin-top: -500; 
+} */
+
+
+body {
+    background-image: url("images/back.jpeg") ;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+
+a {
+    color: red;
+    display: block;
+    font-size: 30px;
+    line-height: 40px;
+    margin-top: 50px;
+}
+
+
+
+
+
+.button-active {
+    background-image: url("images/night.jpeg");
+}
+
+#button {
+    background-color: rgb(222, 195, 57);
+    margin-top: -200px;
+    margin-left: 450px;
+    /* border-radius: 10%; */
+}
